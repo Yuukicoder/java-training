@@ -8,5 +8,6 @@
                 "-Dappmap.output.directory=${command:appmap.getAppmapDir}"
             ]
         }
-    ]
+    ],
+    "docwriter.style": "NumPy"
 }
