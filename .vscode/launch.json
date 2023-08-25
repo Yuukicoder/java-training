@@ -1,0 +1,102 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Date4",
+            "request": "launch",
+            "mainClass": "Date4.Date4",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Date3",
+            "request": "launch",
+            "mainClass": "Date3.Date3",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Date2",
+            "request": "launch",
+            "mainClass": "Date2.Date2",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "BanCaFe",
+            "request": "launch",
+            "mainClass": "BanCaFe.BanCaFe",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1.Array1",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Date1",
+            "request": "launch",
+            "mainClass": "Date1.Date1",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "MyDate",
+            "request": "launch",
+            "mainClass": "MyDate.MyDate",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "PTB2",
+            "request": "launch",
+            "mainClass": "PTB2.PTB2",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Mang1",
+            "request": "launch",
+            "mainClass": "Mang1.Mang1",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MyDate.Main",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "PTB2",
+            "request": "launch",
+            "mainClass": "PTB2",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Mang1",
+            "request": "launch",
+            "mainClass": "Mang1",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "Run with AppMap",
+            "request": "launch",
+            "mainClass": "",
+            "vmArgs": "-javaagent:${userHome}\\.appmap\\lib\\java\\appmap.jar"
+        }
+    ]
+}
