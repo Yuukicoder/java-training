@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QuanLyMayTinh",
+            "request": "launch",
+            "mainClass": "QuanLyMayTinh.QuanLyMayTinh",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "QuanLySinhVien",
+            "request": "launch",
+            "mainClass": "QuanLySinhVien.QuanLySinhVien",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "QuanLyFilm",
+            "request": "launch",
+            "mainClass": "QuanLyFilm.QuanLyFilm",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "QuanLySach",
+            "request": "launch",
+            "mainClass": "QuanLySach.QuanLySach",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
             "name": "Date4",
             "request": "launch",
             "mainClass": "Date4.Date4",
