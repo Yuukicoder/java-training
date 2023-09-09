@@ -2,6 +2,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "List3",
+            "request": "launch",
+            "mainClass": "List3.List3",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort.BubbleSort",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "MyLinkedList",
+            "request": "launch",
+            "mainClass": "LinkData.MyLinkedList",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "LinkData",
+            "request": "launch",
+            "mainClass": "LinkData.LinkData",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "List2",
+            "request": "launch",
+            "mainClass": "List2.List2",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "List1",
+            "request": "launch",
+            "mainClass": "List1.List1",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "SingleLinkedList",
+            "request": "launch",
+            "mainClass": "List1.SingleLinkedList",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "QuanLyPhuongTien",
+            "request": "launch",
+            "mainClass": "QuanLyPhuongTien.QuanLyPhuongTien",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "VeHinh",
+            "request": "launch",
+            "mainClass": "VeHinh.VeHinh",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "QuanLyDongVat",
+            "request": "launch",
+            "mainClass": "QuanLyDongVat.QuanLyDongVat",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
+            "name": "ConNguoi",
+            "request": "launch",
+            "mainClass": "ConNguoi.ConNguoi",
+            "projectName": "java-training_93eb1e03"
+        },
+        {
+            "type": "java",
             "name": "QuanLyMayTinh",
             "request": "launch",
             "mainClass": "QuanLyMayTinh.QuanLyMayTinh",
